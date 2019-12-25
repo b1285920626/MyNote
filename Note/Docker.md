@@ -336,8 +336,18 @@ docker exec -it 243c32535da7 /bin/bash
    swapon  /home/swap
    ```
 
-   
-   
+
+
+
+# 4，docker的build命令
+
+
+
+
+
+# 5，docker-compose的使用
+
+
 
 
 
